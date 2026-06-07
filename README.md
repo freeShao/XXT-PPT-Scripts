@@ -6,20 +6,20 @@
 基于 <code>requests</code> 爬取学习通课件 PPT 图片并转换为 PDF 的辅助工具，提供可视化 GUI 和命令行两种使用方式。
 </p>
 
-<p align="center">
+<!-- <p align="center"> # TODO: add using modules and envs
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/requests-2.32.3-blue?logo=python" alt="requests">
   <img src="https://img.shields.io/badge/fpdf2-2.8.1-orange?logo=python" alt="fpdf2">
   <img src="https://img.shields.io/badge/Pillow-11.0.0-brightgreen?logo=python" alt="Pillow">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
-</p>
+</p> --> 
 
-<p align="center">
+<!-- <p align="center"> # TODO: add axiom alayse
   <a href="https://github.com/freeShao/Learning-action">
     <img src="https://repobeats.axiom.co/api/embed/7fc17684308aa1ab89d08e771e2355548bf8fb59.svg" />
   </a>
-</p>
+</p> -->
 
 ---
 
